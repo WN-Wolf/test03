@@ -1,6 +1,6 @@
 
 int add(int a, int b)
 {
-    cout << "模拟我的修改" << endl;
-    return a + b;
+    int c = a + b;
+    return c;
 }
